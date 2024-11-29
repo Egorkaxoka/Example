@@ -4,7 +4,9 @@
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 meropriat/
+
 public/
+
 index.html
 src/
 components/
